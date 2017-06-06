@@ -26,7 +26,7 @@
 
 ### Decorator
 - [Projeto](https://github.com/angelozero/java-design-patterns/tree/master/decorator)
-- [Composite Readme](https://github.com/angelozero/java-design-patterns/blob/master/Decorator.md)
+- [Decorator Readme](https://github.com/angelozero/java-design-patterns/blob/master/Decorator.md)
 
 ### Factory 
 - [Projeto](https://github.com/angelozero/java-design-patterns/tree/master/factory)
