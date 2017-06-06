@@ -12,6 +12,10 @@
 - [Projeto](https://github.com/angelozero/java-design-patterns/tree/master/composite)
 - [Composite Readme](https://github.com/angelozero/java-design-patterns/blob/master/Composite.md)
 
+### Decorator
+- [Projeto](https://github.com/angelozero/java-design-patterns/tree/master/decorator)
+- [Composite Readme](https://github.com/angelozero/java-design-patterns/blob/master/Decorator.md)
+
 
 
 
