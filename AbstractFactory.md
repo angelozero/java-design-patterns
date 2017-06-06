@@ -1,6 +1,4 @@
-# Desing Patterns
-
-### Abstract Factory
+# Abstract Factory
 
 O padrão de projeto Abstract Factory define uma interface para criar famílias de objetos sem especificar suas classes concretas.
 Veja o seu diagrama de classes e código Java que implementam o padrão:
