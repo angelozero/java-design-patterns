@@ -77,3 +77,6 @@ public class TesteApp {
 ```
 
 Acima criou-se uma factory com os dados acima. Baseado na condição “sexo” temos a criação do objeto Homem que faz a saudação correta. Veja que toda a parte de decisão, ou a sujeira, fica tudo na fábrica para que ela possa decidir o que fazer.
+
+
+fonte: [Devmedia](http://www.devmedia.com.br/padrao-de-projeto-factory-method-em-java/26348)
