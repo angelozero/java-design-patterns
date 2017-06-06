@@ -153,4 +153,4 @@ public Usuario getUsuario()
 
 Perceba como ficou muito mais simples ler e criar nosso objeto. O builder possui uma Fluent Interface para tornar o código mais legível.
 
-fonte: (Stefan Teixeira)[http://stefanteixeira.com.br/2015/07/29/design-patterns-para-melhorar-seus-testes-parte-1-builder-fluent-interfaces/]
+fonte: [Stefan Teixeira](http://stefanteixeira.com.br/2015/07/29/design-patterns-para-melhorar-seus-testes-parte-1-builder-fluent-interfaces/)
