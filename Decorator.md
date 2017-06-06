@@ -85,3 +85,6 @@ Perceba que o tipo do coquetel varia de acordo com o decorador aplicado. Então,
 O método do decorador por sua vez chama o método da classe mãe, este método então chama o método do Coquetel ao qual ele decora. Se esse coquetel for outro decorador o pedido é repassado até chegar a um coquetel que é uma bebida de fato e finalmente responde a requisição sem repassar a nenhum outro objeto.
 
 De maneira semelhante a recursão, os valores calculados vão sendo retornados até chegar no último decorador aplicado e então são repassados ao objeto. É como se os decoradores englobassem tanto outros decoradores quanto o componente em si.
+
+
+fonte: [Brizeno Wordpress](https://brizeno.wordpress.com/category/padroes-de-projeto/decorator/)
