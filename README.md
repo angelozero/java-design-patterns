@@ -14,11 +14,11 @@
 
 ### Chain of Responsibility (pendente)
 - [Projeto]()
-- [Composite Readme]()
+- [Chain of Responsibility Readme]()
 
 ### Command (pendente)
 - [Projeto]()
-- [Composite Readme]()
+- [Command Readme]()
 
 ### Composite
 - [Projeto](https://github.com/angelozero/java-design-patterns/tree/master/composite)
@@ -34,8 +34,8 @@
 
 ### Strategy (pendente)
 - [Projeto]()
-- [Composite Readme]()
+- [Strategy Readme]()
 
 ### Template Method (pendente)
 - [Projeto]()
-- [Composite Readme]()
+- [Template Method Readme]()
