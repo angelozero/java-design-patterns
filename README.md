@@ -8,6 +8,18 @@
 - [Projeto](https://github.com/angelozero/java-design-patterns/tree/master/adapter)
 - [Adapter Readme](https://github.com/angelozero/java-design-patterns/blob/master/Adapter.md)
 
+### Builder
+- [Projeto](https://github.com/angelozero/java-design-patterns/tree/master/builder)
+- [Builder Readme](https://github.com/angelozero/java-design-patterns/blob/master/Builder.md)
+
+### Chain of Responsibility
+- [Projeto]()
+- [Composite Readme]()
+
+### Command
+- [Projeto]()
+- [Composite Readme]()
+
 ### Composite
 - [Projeto](https://github.com/angelozero/java-design-patterns/tree/master/composite)
 - [Composite Readme](https://github.com/angelozero/java-design-patterns/blob/master/Composite.md)
@@ -16,6 +28,14 @@
 - [Projeto](https://github.com/angelozero/java-design-patterns/tree/master/decorator)
 - [Composite Readme](https://github.com/angelozero/java-design-patterns/blob/master/Decorator.md)
 
+### Factory
+- [Projeto](https://github.com/angelozero/java-design-patterns/tree/master/factory)
+- [Factory Readme](https://github.com/angelozero/java-design-patterns/blob/master/Factory.md)
 
+### Strategy
+- [Projeto]()
+- [Composite Readme]()
 
-
+### Template Method
+- [Projeto]()
+- [Composite Readme]()
