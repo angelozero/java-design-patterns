@@ -188,3 +188,7 @@ args -> 1 2 3 4 5 6
          49
       39
 ```
+
+fonte: 
+ - [Sourcemaking](https://sourcemaking.com/design_patterns/composite/java/2)
+ - [Wiki](https://pt.wikipedia.org/wiki/Composite)
