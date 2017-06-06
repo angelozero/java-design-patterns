@@ -60,3 +60,5 @@ public class Teste {
 ```
 
 Nota-se que o cliente faz uma chamada normalmente usando a tomada de dois pinos, mas na realidade esta chamada está sendo adaptada para uma tomada de três pinos. Assim temos duas interfaces que não eram compatíveis entre si conversando normalmente.
+
+fonte: [DevMedia](http://www.devmedia.com.br/padrao-de-projeto-adapter-em-java/26467)
