@@ -12,13 +12,13 @@
 - [Projeto](https://github.com/angelozero/java-design-patterns/tree/master/builder)
 - [Builder Readme](https://github.com/angelozero/java-design-patterns/blob/master/Builder.md)
 
-### Chain of Responsibility (pendente)
+### Chain of Responsibility (pendente readme)
 - [Projeto]()
 - [Chain of Responsibility Readme]()
 
-### Command (pendente)
-- [Projeto]()
-- [Command Readme]()
+### Command (pendente readme)
+- [Projeto](https://github.com/angelozero/java-design-patterns/tree/master/chainofresponsibility)
+- [Command Readme](https://github.com/angelozero/java-design-patterns/tree/master/command)
 
 ### Composite
 - [Projeto](https://github.com/angelozero/java-design-patterns/tree/master/composite)
@@ -32,10 +32,10 @@
 - [Projeto](https://github.com/angelozero/java-design-patterns/tree/master/factory)
 - [Factory Readme](https://github.com/angelozero/java-design-patterns/blob/master/Factory.md)
 
-### Strategy (pendente)
-- [Projeto]()
+### Strategy (pendente readme)
+- [Projeto](https://github.com/angelozero/java-design-patterns/tree/master/strategy)
 - [Strategy Readme]()
 
-### Template Method (pendente)
-- [Projeto]()
+### Template Method
+- [Projeto](https://github.com/angelozero/java-design-patterns/tree/master/templatemethod)
 - [Template Method Readme]()
